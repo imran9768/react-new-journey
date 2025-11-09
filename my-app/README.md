@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 <!-- \
-branch name 01-react-basics
+branch name 01-react-basics: Done
     Month 1 – Core React Fundamentals
     Week 1 – React Basics
     Concepts:
@@ -85,8 +85,11 @@ branch name 01-react-basics
 Branch name: 02-state-and-events
     Week 2 – State & Events
     Concepts:
-    useState hook
-    Handling events
+    useState hook: Done
+    Handling eventsMouse Events → onClick, onDoubleClick, onMouseEnter, onMouseLeave
+    ⌨️ Keyboard Events → onKeyDown, onKeyPress, onKeyUp
+    📋 Form Events → onChange, onSubmit, onFocus, onBlur
+    🌍 Others → onLoad, onError, onScroll
     Two-way data binding
     Form handling
     Controlled vs uncontrolled components
